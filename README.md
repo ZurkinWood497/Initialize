@@ -1,4 +1,4 @@
-# Initialize
+# Initialize-Examples
 Location of initial program/site designing
 
 All projects, be it a program, or software development, shall be placed into this repository. All files herein are provided as examples of the extent that my programming is, and shall continually be expanded to showcase my level as time progresses.
